@@ -1,0 +1,9 @@
+# File configuration for Discraft.
+
+settings:
+
+  # Replace with your bot's token
+  token: 'YOUR_TOKEN_HERE'
+
+  # The channel ID where the messages will be sent.
+  channel: 'CHANNEL_ID_HERE'

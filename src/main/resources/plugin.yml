@@ -1,0 +1,4 @@
+name: Discraft
+version: '${project.version}'
+main: me.nebula.discraft.Discraft
+api-version: 1.19
