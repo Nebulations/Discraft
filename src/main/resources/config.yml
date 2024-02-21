@@ -7,3 +7,9 @@ settings:
 
   # The channel ID where the messages will be sent.
   channel: 'CHANNEL_ID_HERE'
+
+  # The message to send when '/discord' is executed. Placeholder for the link: '%link%'.
+  command-message: '&9&lDISCORD &fJoin our discord server! %link%'
+
+  # The link to use in 'command-message'
+  command-link: 'https://example.com/'
